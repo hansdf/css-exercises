@@ -1,0 +1,14 @@
+button {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.firsto {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.secondo {
+    background-color: yellow;
+}
